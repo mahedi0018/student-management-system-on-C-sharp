@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="stdb" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=Mahedi;Initial Catalog=stdb;Integrated Security=True" SettingsObjectName="LogIn.Properties.Settings" SettingsPropertyName="stdbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Course1" Member="Course1s">
+    <Type Name="Course1">
+      <Column Name="Course_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Course_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Course1_StudentData1" Member="StudentData1s" ThisKey="Course_ID" OtherKey="Student_ID" Type="StudentData1" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StudentData1" Member="StudentData1s">
+    <Type Name="StudentData1">
+      <Column Name="Student_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Course_ID" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Course1_StudentData1" Member="Course1" ThisKey="Student_ID" OtherKey="Course_ID" Type="Course1" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

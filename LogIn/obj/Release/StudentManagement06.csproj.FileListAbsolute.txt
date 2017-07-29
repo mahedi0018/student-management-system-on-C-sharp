@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\bin\Release\LogIn.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\bin\Release\LogIn.exe
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\bin\Release\LogIn.pdb
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Release\LogIn.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Release\LogIn.Main.resources
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Release\LogIn.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Release\StudentManagement06.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Release\LogIn.exe
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Release\LogIn.pdb

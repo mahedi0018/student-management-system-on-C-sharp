@@ -1,0 +1,10 @@
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Debug\StudentManagement06.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Debug\LogIn.Main.resources
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Debug\StudentManagement06.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\obj\Debug\LogIn.pdb
+C:\Users\User\documents\visual studio 2013\Projects\LogIn\LogIn\bin\Debug\LogIn.pdb
